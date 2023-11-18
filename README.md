@@ -1,3 +1,1 @@
-# Test
 
-Merhaba ayak severim.
